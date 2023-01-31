@@ -5,7 +5,13 @@ Completed by Ethan Kwong, Nicholas Lam, Vincent Le, Nicholas Liu and Jeffery Men
 
 ## What I learned
 
-* 
+* How to conduct effective project management through the complete software development life cycle
+*	Extensive version control using Git
+*	Testing, developing, and maintaining a backend server in python
+* Requirements analysis through creating user stories and state diagrams
+* Deploying a web server using Flask
+
+
 
 ## Functionality:
 * Ability to login, register if not registered, and log out
